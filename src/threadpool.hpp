@@ -5,7 +5,6 @@
 #include <set>
 #include <iostream>
 #include "task.hpp"
-#include "thread.hpp"
 
 using namespace std;
 
